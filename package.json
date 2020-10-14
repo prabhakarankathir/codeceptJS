@@ -1,0 +1,20 @@
+{
+  "name": "codeceptjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codecept.conf.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "@codeceptjs/ui": "^0.4.0",
+    "codeceptjs": "^3.0.0",
+    "puppeteer": "^5.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
